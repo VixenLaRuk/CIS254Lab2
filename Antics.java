@@ -1,9 +1,16 @@
-
+/**
+ * This program indicates if a word/string is a palindrome, abecedarian, pangram, and
+ * capitalizes the first letter of the string/word.
+ * @author Vixen La Ruk
+ * @author Vicky Kang
+ * @since 10/3/2015
+ */
 public class Antics {
-
+    
     /**
-     * 
-     * @param str the input string to be checked.
+     * This method processes the user's input and considers if
+     * it's a palindrome.
+     * @param str processes user's input.
      * @return true if the string is a palindrome, flase otherwise
      */
 
@@ -23,8 +30,9 @@ public class Antics {
     }
 
     /**
-     * 
-     * @param str the input string to be checked.
+     * This method processes the user's input and considers if
+     * it is an abecedarian.
+     * @param str processes user's input.
      * @return true if the string is abecedarian, false otherwise.
      */
 
@@ -41,8 +49,8 @@ public class Antics {
     }
 
     /**
-     * 
-     * @param str the input string to be checked.
+     * This method processes the user's input and considers if it is a pangram.
+     * @param str processes user's input.
      * @return true if the string is a pangram, false otherwise.
      */
 
@@ -58,8 +66,9 @@ public class Antics {
     }
 
     /**
-     * 
-     * @param str the input string to be capitalized.
+     * This method processes the user's input and returns the
+     * string/word with the first letter capitalized.
+     * @param str user's input to be capitalized.
      * @return the input string with the first letter capitalized
      */
 
