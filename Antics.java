@@ -3,10 +3,10 @@
  * capitalizes the first letter of the string/word.
  * @author Vixen La Ruk
  * @author Vicky Kang
- * @since 10/3/2015
+ * @since 10/3/2025
  */
 public class Antics {
-    
+
     /**
      * This method processes the user's input and considers if
      * it's a palindrome.
