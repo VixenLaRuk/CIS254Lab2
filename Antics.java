@@ -1,8 +1,8 @@
 /**
  * This program indicates if a word/string is a palindrome, abecedarian, pangram, and
  * capitalizes the first letter of the string/word.
- * @author Vixen La Ruk
- * @author Vicky Kang
+ * @author Vixen La Ruk (isPalindrome and isAbecederian)
+ * @author Vicky Kang (isPangram and capitalizeFirstLetter)
  * @since 10/3/2025
  */
 public class Antics {
